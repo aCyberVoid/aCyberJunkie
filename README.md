@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aCyberJunkie
 - 👀 I’m interested in cybersecuirty and information assurance.
-- 🌱 I’m currently learning pentesting with Kali linux and working with fun little projects t learn various programming languages such as python.
+- 🌱 I’m currently working on fun projects to learn various programming languages such as a text based python adventure game.
 - 💞️ I honestly am afraid to collaborate on anything at the moment. So new, sorry!
-- 📫 How to reach me...uhm to be determine n_n
+- 📫 How to reach me...uhm to be determined n_n
